@@ -2,7 +2,7 @@
 
 ## 1. Introduction to C
 - Intronduction
-- Installation and Configure With C Compiler
+- Installation and Configure IDE With C Compiler
 
 ## 2. Basic Syntax and Output
 - Syntax
@@ -19,9 +19,9 @@
 - Relational
 - Logical
 - Conditional & Bitwise
-- Operator precedence
-- Type casting and Conversion
-- Practice problems on Operators
+- Operator Precedence
+- Type Casting and Conversion
+- Practice Problems On Operators
 
 ## 5. Loop Control Statements
 - If...Else
@@ -29,21 +29,21 @@
 - While Loop
 - For Loop
 - Break/Continue
-- Practice problems on Conditional Statements
+- Practice Problems On Conditional Statements
 
 ## 6. Arrays
-- Introduction to Arrays
-- Basic array manipulation
-- Practice problems on Arrays
+- Introduction To Arrays
+- Basic Array Manipulation
+- Practice Problems On Arrays
 
 ## 6. Strings
-- Introduction to Strings
+- Introduction To Strings
 - Modifying Strings
-- Practice problems on Strings
+- Practice problems On Strings
 
 ## 7. User Inputs
 - Introducing taking inputs - scanf()
-- Practice problems on User Inputs
+- Practice Problems On User Inputs
 
 ## 8. Functions and Recursion
 - Functions
@@ -52,7 +52,7 @@
 - Function Declaration
 - Recursion
 - Math Functions
-- Practice problems on Functions
+- Practice Problems On Functions
 
 ## 9. Pointers and Structures
 - Pointer: Introduction, Declaration, Swap two numbers
@@ -70,10 +70,11 @@
 - Enum in a Switch Statement
 
 ## 12. Debug your code
-- Learn to debug common errors
+- Learn To Debug Common Errors
 
 ## 13. File Handling
 - Files
 - Create Files
 - Write To Files
 - Read Files
+
