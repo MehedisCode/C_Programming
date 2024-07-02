@@ -1,55 +1,79 @@
 # C Tutorial Playlist
 
-## Introduction to C
-- HOME
-- Intro
-- Get Started
+## 1. Introduction to C
+- Intronduction
+- Installation and Configure With C Compiler
 
-## Basic Syntax and Output
+## 2. Basic Syntax and Output
 - Syntax
 - Output
 - Comments
 
-## Variables and Data Types
+## 3. Variables and Data Types
 - Variables
 - Data Types
 - Constants
 
-## Operators and Booleans
-- Operators
-- Booleans
+## 4. Operators
+- Arithmetic
+- Relational
+- Logical
+- Conditional & Bitwise
+- Operator precedence
+- Type casting and Conversion
+- Practice problems on Operators
 
-## Control Structures
+## 5. Loop Control Statements
 - If...Else
 - Switch
 - While Loop
 - For Loop
 - Break/Continue
+- Practice problems on Conditional Statements
 
-## Arrays and Strings
-- Arrays
-- Strings
+## 6. Arrays
+- Introduction to Arrays
+- Basic array manipulation
+- Practice problems on Arrays
 
-## User Input and Memory
-- User Input
-- Memory Address
-- Pointers
+## 6. Strings
+- Introduction to Strings
+- Modifying Strings
+- Practice problems on Strings
 
-## Functions
+## 7. User Inputs
+- Introducing taking inputs - scanf()
+- Practice problems on User Inputs
+
+## 8. Functions and Recursion
 - Functions
 - Function Parameters
 - Scope
 - Function Declaration
 - Recursion
 - Math Functions
+- Practice problems on Functions
 
-## File Handling
+## 9. Pointers and Structures
+- Pointer: Introduction, Declaration, Swap two numbers
+- Call by Value, Call by Reference
+- Structures in C
+
+## 10. Memory Management
+- Dynamic Memory Allocation
+- Access Dynamic Memory
+- Reallocate Memory
+- Deallocate Memory
+
+## 11. Enums
+- C Enumeration
+- Enum in a Switch Statement
+
+## 12. Debug your code
+- Learn to debug common errors
+
+## 13. File Handling
 - Files
 - Create Files
 - Write To Files
 - Read Files
-
-## Advanced Topics
-- Structures
-- Enums
-- Memory Management
