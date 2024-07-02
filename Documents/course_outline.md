@@ -15,10 +15,10 @@
 - Constants
 
 ## 4. Operators
-- Arithmetic
-- Relational
-- Logical
-- Conditional & Bitwise
+- Arithmetic Operators
+- Relational Operators
+- Logical Operators
+- Conditional & Bitwise Operators
 - Operator Precedence
 - Type Casting and Conversion
 - Practice Problems On Operators
