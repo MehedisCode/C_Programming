@@ -1,7 +1,7 @@
-# C Tutorial Playlist
+# C Programming Playlist
 
-## 1. Introduction to C
-- Intronduction
+## 1. Introduction to C Programming
+- Intronduction To C Programming
 - Installation and Configure IDE With C Compiler
 
 ## 2. Basic Syntax and Output
