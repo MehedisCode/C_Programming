@@ -28,6 +28,7 @@
 - Switch
 - While Loop
 - For Loop
+- Nested Loops
 - Break/Continue
 - Practice Problems On Conditional Statements
 
