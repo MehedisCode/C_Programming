@@ -1,6 +1,6 @@
 # C Programming Playlist
 
-## 1. Introduction to C Programming
+## 1. Introduction To C Programming
 - Intronduction To C Programming
 - Installation and Configure IDE With C Compiler
 
@@ -40,7 +40,7 @@
 ## 6. Strings
 - Introduction To Strings
 - Modifying Strings
-- Practice problems On Strings
+- Practice Problems On Strings
 
 ## 7. User Inputs
 - Introducing taking inputs - scanf()
